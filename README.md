@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [BenchBase](https://github.com/cmu-db/benchbase/)
-- 💬 Reach out to me about feature requests for BenchBase
+- 💬 Ask me about experience, feedback, or ideas for BenchBase
 - 📫 How to reach me: Email me at wang.patrick57@gmail.com
 - ⚡ Fun fact: My birthday is 3^2/2^2/1^2
   
