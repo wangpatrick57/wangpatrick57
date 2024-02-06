@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [BenchBase](https://github.com/cmu-db/benchbase/)
+- 🔭 I’m currently working on [DB-Gym](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
 - ⚡ Fun fact: My birthday is 3^2/2^2/1^2
   
 <!--
