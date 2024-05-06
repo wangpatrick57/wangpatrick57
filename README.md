@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [dbgym](https://github.com/cmu-db/dbgym) and [optd](https://github.com/cmu-db/optd)
+- 🔭 I’m currently working on [pinot](https://github.com/apache/pinot)
 - ⚡ Fun fact: My birthday is 3²/2²/1²
   
 <!--
