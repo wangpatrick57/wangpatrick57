@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on CMU-DB's [DB-Gym](https://github.com/cmu-db/dbgym) and [Apache Pinot](https://github.com/apache/pinot)
+- 🔭 I’m currently working on CMU-DB's [DB-Gym](https://github.com/cmu-db/dbgym) and Apache [Pinot](https://github.com/apache/pinot)
 - ⚡ Fun fact: My birthday is 3²/2²/1²
   
 <!--
