@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on CMU's [Database Gym](https://github.com/cmu-db/dbgym)
 - ⚡ Fun fact: My birthday is 3²/2²/1²
   
 <!--
